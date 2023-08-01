@@ -11,7 +11,7 @@ I am a Computer Engineering Student focusing on JavaScript (Front-End), C# (Back
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://worldvectorlogo.com/pt/logo/c--4">
+    <img height='50em' src="https://worldvectorlogo.com/pt/logo/c--4.svg">
   </div>
 
   ##
