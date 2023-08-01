@@ -3,8 +3,8 @@
 I am a Computer Engineering Student focusing on JavaScript (Front-End), C# (Back-End).
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Castruu&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=dracula">
 </div>
 
   <div>
