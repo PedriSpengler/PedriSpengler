@@ -7,7 +7,6 @@ I am a Computer Engineering Student focusing on JavaScript (Front-End), C# (Back
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Castruu&layout=compact&theme=dracula">
 </div>
 
-🧰 Toolbox
   <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
     <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
