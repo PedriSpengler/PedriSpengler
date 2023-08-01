@@ -8,9 +8,9 @@ I am a Computer Engineering Student focusing on JavaScript (Front-End), C# (Back
 </div>
 
   <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-    <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img height='50em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img height='50em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img height='50em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
 
