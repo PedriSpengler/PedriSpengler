@@ -14,7 +14,7 @@ I am a Computer Engineering Student focusing on ReactJS (Web Front-end), React N
     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img height='50em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img height='50em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height='50em' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+    <img height='25em' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </div>
 
   ##
