@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I am a Computer Engineering Student focusing on JavaScript (Front-End), C# (Back-End).
+I am a Computer Engineering Student focusing on ReactJS (Web-Development), React Native (Mobile-Development).
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=dracula&count_private=true">
