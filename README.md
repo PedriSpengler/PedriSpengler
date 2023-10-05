@@ -3,7 +3,7 @@
 I am a Computer Engineering Student focusing on ReactJS (Web Front-end), React Native (Mobile Development).
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowlo&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowl&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=nightowl">
 </div>
 
