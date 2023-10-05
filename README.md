@@ -1,10 +1,10 @@
-### Welcome to my profile!
+### Pedro's Profile!
 
 I am a Computer Engineering Student focusing on ReactJS (Web Front-end), React Native (Mobile Development).
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=dracula">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=onedarkpro&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=onedarkpro">
 </div>
 
   <div>
