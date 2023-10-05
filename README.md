@@ -7,6 +7,8 @@ I am a Computer Engineering Student focusing on ReactJS (Web Front-end), React N
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=nightowl">
 </div>
 
+### Technologies
+
   <div>
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
