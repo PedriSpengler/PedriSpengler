@@ -1,6 +1,6 @@
 ### Pedro's Profile!
 
-I am a Computer Engineering Student focusing on ReactJS (Web Front-end), React Native (Mobile Development).
+I am a Computer Engineering Student focusing on ReactJS (Web Front-end), C# (Back-end).
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowl&count_private=true">
