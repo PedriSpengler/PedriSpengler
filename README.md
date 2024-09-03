@@ -17,8 +17,8 @@ I am a Computer Engineering Student focusing on ReactJS (Web Front-end), C# (Bac
     <img height='40em' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img height='40em' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   </div>
 
   ##
