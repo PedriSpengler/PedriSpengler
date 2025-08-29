@@ -23,7 +23,7 @@
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img height="40em" src="https://cdn.brandfetch.io/{identifier}/logo/theme/{theme}?c={yourClientId}" />
+    <img height="40em" src="https://cdn.brandfetch.io/id7gN4JouK/theme/dark/logo.svg?c=1bxid64Mup7aczewSAYMX&t=1735286125879" />
 </div>
 
 ---
