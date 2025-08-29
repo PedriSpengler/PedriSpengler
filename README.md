@@ -1,6 +1,6 @@
 ### Pedro's Profile!
 
-I am a Computer Engineering Student focusing on ReactJS (Web Front-end), Java (Back-end).
+I am a Computer Engineering Student, focusing in Data Analysis and Artificial Intelligence.
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowl&count_private=true">
@@ -19,6 +19,7 @@ I am a Computer Engineering Student focusing on ReactJS (Web Front-end), Java (B
     <img height='40em' <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img height='40em' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img height='40em' src="https://upload.wikimedia.org/wikipedia/commons/ab/cd/N8n_logo.png" />
   </div>
 
   ##
