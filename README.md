@@ -1,7 +1,7 @@
 ### 👋 Welcome to Pedro's Profile!
 
-💻 I am a **Computer Engineering Student** passionate about **Data Analysis 📊** and **Artificial Intelligence 🤖**.  
-🚀 Always learning, building, and experimenting with **new technologies**, aiming to transform data into knowledge and innovative solutions.  
+💻 I am a Computer Engineering Student passionate about Data Analysis 📊 and Artificial Intelligence 🤖.  
+🚀 Always learning, building, and experimenting with new technologies, aiming to transform data into knowledge and innovative solutions.  
 🌎 I love exploring how technology can solve real-world problems and open new opportunities for the future.  
 
 <div>
