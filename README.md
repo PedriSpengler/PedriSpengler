@@ -1,4 +1,4 @@
-### 👋 Welcome to Pedro's Profile!
+### HI, I am Pedro Spengler !
 
 💻 I am a Computer Engineering Student passionate about Data Analysis 📊 and Artificial Intelligence 🤖.  
 🚀 Always learning, building, and experimenting with new technologies, aiming to transform data into knowledge and innovative solutions.  
