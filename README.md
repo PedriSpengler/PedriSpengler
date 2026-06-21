@@ -1,6 +1,6 @@
 ### HI, I am Pedro Spengler !
 
-💻 I am a Computer Engineering Student passionate about Data Analysis 📊 and Artificial Intelligence 🤖.  
+💻 I am a Computer Engineering Student passionate about Data Engineering 📊 and Artificial Intelligence 🤖.  
 🚀 Always learning, building, and experimenting with new technologies, aiming to transform data into knowledge and innovative solutions.  
 🌎 I love exploring how technology can solve real-world problems and open new opportunities for the future.  
 
