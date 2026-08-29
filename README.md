@@ -1,51 +1,28 @@
-### HI, I am Pedro Spengler !
-
-<p align="center">
-    💻 Computer Engineering Student | AI & FullStack.
-</p>
-
-🚀 Always learning, building, and experimenting with new technologies, aiming to transform data into knowledge and innovative solutions.
-🌎 I love exploring how technology can solve real-world problems and open new opportunities for the future.
-
 <div align="center">
-    <img height="150" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=PedriSpengler&show_icons=true&theme=nightowl&count_private=true" alt="Pedro Spengler's GitHub stats" />
-    <img height="150" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=PedriSpengler&layout=compact&theme=nightowl" alt="Top Langs" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pedro%20Spengler&fontSize=60&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Software%20Engineering&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student+@+UFGD;AI+Solutions+%26+Workflow+Automation;Building+Scalable+Full-Stack+Systems;Transforming+Data+into+Impactful+Products." alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/pedro-spengler"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:pedroj.oficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://instagram.com/pedrispengler"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  </p>
+
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools:
+
+## 🛠️ Stack & Ferramentas
 
 <div align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" />
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Microsoft Azure" />
-    <img height="40" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" />    
-    <img height="40" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,python,spring,cs,aws,angular,git,github&perline=7" />
+
 </div>
 
----
-
-### 🌐 Connect with me:
-
-<div align="center">
-    <a href="https://www.instagram.com/pedrispengler/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://www.linkedin.com/in/pedro-spengler-23476b259/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-</div>
-
-<p align="center">
-    Aiming to transform data into knowledge and innovative solutions
-</p>
+<br/>
