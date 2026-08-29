@@ -1,7 +1,7 @@
 ### HI, I am Pedro Spengler !
 
 <p align="center">
-    💻 Computer Engineering Student | AI 🤖 & FullStack.
+    💻 Computer Engineering Student | AI & FullStack.
 </p>
 
 🚀 Always learning, building, and experimenting with new technologies, aiming to transform data into knowledge and innovative solutions.
