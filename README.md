@@ -12,9 +12,6 @@
 
 ---
 
-
-## 🛠️ Stack & Ferramentas
-
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,python,spring,cs,aws,angular,git,github&perline=7" />
