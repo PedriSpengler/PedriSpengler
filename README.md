@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,python,spring,cs,aws,angular,git,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,redis,vue,react,java,python,spring,supabase,aws,angular,git,github&perline=7" />
 
 </div>
 
