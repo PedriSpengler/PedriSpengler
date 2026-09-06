@@ -15,6 +15,7 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,redis,vue,react,java,python,spring,supabase,aws,angular,git,github&perline=7" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" alt="n8n" style="margin-left: 5px;" />
 
 </div>
 
