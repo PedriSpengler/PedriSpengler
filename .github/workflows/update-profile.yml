@@ -1,0 +1,47 @@
+name: Atualiza estatísticas do perfil
+
+on:
+  schedule:
+    # todo dia às 06:00 UTC (03:00 em Brasília)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update_profile.py"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Consulta a GitHub API e atualiza o README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/update_profile.py README.md
+
+      - name: Commita se houver mudança
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nada mudou."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: atualiza estatísticas do perfil via GitHub API"
+          git push
