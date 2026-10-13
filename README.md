@@ -32,9 +32,9 @@
 | Repositórios públicos | **22** |
 | Estrelas recebidas | **2** |
 | PRs mergeados em projetos de terceiros | **2** |
-| Linguagens mais usadas | Java (5), Python (4), CSS (2), Go (2), TypeScript (2) |
+| Linguagens mais usadas | Java (5), Python (5), CSS (2), Go (2), TypeScript (2) |
 | Contribuições em open source | [withastro/docs](https://github.com/withastro/docs) |
 
-<sub>Atualizado automaticamente via GitHub API em 13/10/2026 17:03 UTC.</sub>
+<sub>Atualizado automaticamente via GitHub API em 13/10/2026 17:08 UTC.</sub>
 
 <!-- STATS:END -->
